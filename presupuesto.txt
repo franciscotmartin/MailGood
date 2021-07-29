@@ -1,0 +1,32 @@
+Pautas a tener en cuenta para la creacion del presupuesto:
+
+1.Dejar claro lo que cuesta cada servicio y explicar el servicio que incluye.
+
+
+A todo esto, para justificar el precio, abajo se detallan los servicios explicando lo que entra en cada uno, en el caso de la instalación y configuración del WordPress sería el comprar/instalar plantilla, instalar/configurar plugins, plugins de pago como el revolution slider, JsComposer etc…
+
+2.Cantidad de Revisiones
+Las veces que se podrá revisar el proyecto, en este caso haría 2, una revisión en la entrega del diseño y luego otra a la hora de entregar la página web.
+
+3.Contenido
+Indicar si las imágenes las incluye el cliente o tenes que buscarlas y sobretodo los textos, dejar claro que corren de su parte, ya que nosotros somos desarrolladores web y no conocemos su negocio mejor que ellos.
+
+Aquí indicar también que la revisión cuenta por su parte, antes de publicar nada, nos tiene que dar el OKEY.
+
+3.Forma de Pago
+Dejar claro el método de pago por el que cobramos, para este proyecto haría un 50% al inicio y un 50% al final, pero sobretodo, cobrar algo antes de empezar a trabajar. Para proyectos grandes, se puede segmentar en diferentes pagos, como en 4 pagos de 25% o así.
+
+Meter en la cláusula que el proyecto es 100% vuestro hasta que no se complete el 100% del pago, ya que aunque tengamos el poder de desconectar la web si no pagan, podemos tener serios problemas.
+
+Dejar marcado el IVA y las retenciones que tendrá.
+
+5.Duración
+ 
+Una cláusula que pongo bastante es contar los días desde el momento que el cliente nos da el material. Por ejemplo: 30 días laborables desde que el cliente facilita todo el contenido necesario.
+ 
+
+6.Derechos
+En el mundo del diseño gráfico esto es muy importante ya que cuando se hace un logotipo para según qué marca, hay que protegerlo, ya que muchas veces se hacen mas famosos por su marca que por su producto.
+
+Marcar que tu proyecto será mostrado en tu página web, por norma nadie se opondrá ya que es publicidad para ellos también, pero dependerá del cliente esto.
+
